@@ -1,0 +1,7 @@
+{
+  "name": "pry-ionic-Angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
